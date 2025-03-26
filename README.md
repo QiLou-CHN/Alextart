@@ -26,7 +26,7 @@ Once you upload an image to your repository, you can link link to it like this (
 ![image of logo](/LOUQI-4.jpg)!
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="[image of logo](/LOUQI-4.jpg)" width="300">
+<img src="(/LOUQI-4.jpg)" width="300">
 
 This is how you create code examples:
 ```

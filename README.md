@@ -26,7 +26,7 @@ Once you upload an image to your repository, you can link link to it like this (
 ![image of logo](/LOUQI-4.jpg)!
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="(/LOUQI-4.jpg)" width="300">
+<img src="https://pics5.baidu.com/feed/6a600c338744ebf81563aa262f4d9c256159a7d9.jpeg" width="300">
 
 This is how you create code examples:
 ```
